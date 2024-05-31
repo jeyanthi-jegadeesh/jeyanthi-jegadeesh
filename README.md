@@ -16,6 +16,7 @@ Languages and Tools:
 
 ### Languages:
 <p>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/530a66103192d4fe620e322f85b46aa322e5b091/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 </p>
