@@ -15,11 +15,19 @@ Languages and Tools:
 ## Languages and Technologies
 
 ### Languages:
-<p>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/530a66103192d4fe620e322f85b46aa322e5b091/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-</p>
+- **Languages:**
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+- **Frameworks and Libraries:**
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+
+- **Tools:**
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### Frameworks and Libraries:
 <p>
